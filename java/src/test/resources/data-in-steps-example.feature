@@ -1,5 +1,8 @@
 Feature: Data in Steps example
 
+  # Supporting code can be found here:
+  # https://github.com/hindsightsoftware/examples/blob/master/java/src/test/java/stepdefinitions/DataInStepsStepsExample.java
+
   Scenario: Demonstrating data in steps
     Given I have "2" addresses
     When I add my "business" address
