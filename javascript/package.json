@@ -1,0 +1,23 @@
+{
+  "name": "cucumber-js-example",
+  "version": "1.0.0",
+  "description": "A series of Cucumber-JS tests to demonstrate features and patterns",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/cucumber-js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hindsightsoftware/examples.git"
+  },
+  "author": "Mark Winteringham",
+  "license": "    GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/hindsightsoftware/examples/issues"
+  },
+  "homepage": "https://github.com/hindsightsoftware/examples#readme",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "cucumber": "^5.0.1"
+  }
+}
